@@ -14,7 +14,6 @@ export default function Search(props) {
     e.preventDefault();
     let data = await fetch(`${apiUrl}${search}`);
     const response = await data.json();
-    console.log(response);
     setResult(response.docs);
   };
 
