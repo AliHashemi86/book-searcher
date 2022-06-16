@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import "./Search.css";
 
-const apiUrl = "http://openlibrary.org/search.json?title=";
+const apiUrl = "https://openlibrary.org/search.json?title=";
 
 export default function Search(props) {
   const [search, setSearch] = useState("");
