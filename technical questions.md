@@ -1,7 +1,7 @@
 
 ### Technical Questions
 
-##### 1. How long did you spend on the coding assignment?
+#### 1. How long did you spend on the coding assignment?
    ###### a. What would you add to your solution if you had more time?
    ###### b. If you didn't spend much time on the coding test, then use this as an opportunity to explain what you would add.
 
@@ -11,22 +11,22 @@
    Of course, I would keep the option to use the app as a guest.
 
 
-##### 2. What was the most useful feature that was added to the latest version of your chosen language? Please include a snippet of code that shows how you've used it.
+#### 2. What was the most useful feature that was added to the latest version of your chosen language? Please include a snippet of code that shows how you've used it.
 
    Based on what I have done so far for this app, I did not use any new features of React 18. So almost all was same as I used before.
 
 
-##### 3. How would you track down a performance issue in production? Have you ever had to do this?
+#### 3. How would you track down a performance issue in production? Have you ever had to do this?
 
    I haven't had any issue in this case.
 
 
-##### 4. How would you improve the API that you just used?
+#### 4. How would you improve the API that you just used?
 
    There is alot of data in arrays and that find it difficult to understand which one is the right one. For example, in author, isbn and etc. So, I think it's better to use them in string instead.
 
 
-##### 5. Please describe yourself using correctly formatted JSON.
+#### 5. Please describe yourself using correctly formatted JSON.
 
 {
    "name": "ali-hashemi",
@@ -71,8 +71,3 @@
       "tiny-app": "https://github.com/AliHashemi86/tinyapp"
    }
 }
-
-
-• You must include tests
-• Send your GitHub repo of your application
-• Host the app on Heroku, Firebase, GitHub or any other cloud host platform of your choice
